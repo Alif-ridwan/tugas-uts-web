@@ -5,11 +5,6 @@ NIM       : 311910801
 
 Kelas     : Ti. 19. B1
 
-# Link Sumber Desain Beserta Gambarnya
-https://markey.id/blog/development/web-development-development/desain-web-html
-
-![image](https://user-images.githubusercontent.com/81422149/116371887-19d4aa00-a836-11eb-88e4-4ec3ec2ff2f4.png)
-
 # Hasil Conversi Dari Desainnya
 
 ![image](https://user-images.githubusercontent.com/81422149/116372059-425ca400-a836-11eb-87c6-5a75d7ab2e35.png)
